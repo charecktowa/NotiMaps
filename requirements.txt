@@ -1,0 +1,11 @@
+requests
+
+beautifulsoup4
+
+pymongo
+
+spacy[cuda11x] # Maybe change this?
+
+nominatim-api # pendiente
+
+openai
