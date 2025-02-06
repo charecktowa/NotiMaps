@@ -9,3 +9,5 @@ spacy[cuda11x] # Maybe change this?
 nominatim-api # pendiente
 
 openai
+
+fastapi[standard]
